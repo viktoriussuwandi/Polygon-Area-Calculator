@@ -5,7 +5,7 @@ This is tthe complete Polygon Area Calculator project. Instructions for building
 https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
 
 ### Some of additional features :
-    * under development
+    * additional testing function on main.py
 
 ### Description :
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
@@ -40,3 +40,4 @@ Write your code in shape_`calculator.py`. For development, you can use `main.py`
 We imported the tests from` test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
 
 #### Test Result
+![complete](complete.jpg)
