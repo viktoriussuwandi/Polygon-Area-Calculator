@@ -1,5 +1,5 @@
 # Polygon Area Calculator
-#### Solution running on : https://replit.com/@ViktoriusSuwand/Polygon-Area-Calculator
+#### Documentation can be found on : [https://github.com/viktoriussuwandi/Polygon-Area-Calculator](https://github.com/viktoriussuwandi/Polygon-Area-Calculator)
 
 This is the complete Polygon Area Calculator project. Instructions for building your project can be found at
 https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
